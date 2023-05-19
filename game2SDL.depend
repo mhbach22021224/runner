@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1684430238 source:e:\sdl\testsdl\game2sdl\commonfunction.cpp
+	"CommonFunction.h"
+
+1684431990 e:\sdl\testsdl\game2sdl\commonfunction.h
+	<iostream>
+	<SDL.h>
+	<stdio.h>
+	<SDL_image.h>
+	<fstream>
+
+1684161382 source:e:\sdl\testsdl\game2sdl\baseobject.cpp
+	"BaseObject.h"
+	"CommonFunction.h"
+
+1684223045 e:\sdl\testsdl\game2sdl\baseobject.h
+	"CommonFunction.h"
+
+1684433499 source:e:\sdl\testsdl\game2sdl\main.cpp
+	"CommonFunction.h"
+	"BaseObject.h"
+	"GameMap.h"
+	"MainObject.h"
+	"Timer.h"
+	"BulletObject.h"
+
+1684166274 source:e:\sdl\testsdl\game2sdl\gamemap.cpp
+	"GameMap.h"
+
+1684245383 e:\sdl\testsdl\game2sdl\gamemap.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1684433499 e:\sdl\testsdl\game2sdl\mainobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	"GameMap.h"
+	<vector>
+
+1684456467 source:e:\sdl\testsdl\game2sdl\mainobject.cpp
+	"MainObject.h"
+
+1684253810 e:\sdl\testsdl\game2sdl\timer.h
+	"CommonFunction.h"
+
+1684247336 source:e:\sdl\testsdl\game2sdl\timer_h.c
+
+1684253831 source:e:\sdl\testsdl\game2sdl\timer.cpp
+	"Timer.h"
+
+1684340674 source:e:\sdl\testsdl\game2sdl\bulletobject.cpp
+
+1684340674 e:\sdl\testsdl\game2sdl\bulletobject.h
+
+1684342217 source:e:\sdl\testsdl\game2sdl\threatobject.cpp
+
+1684335767 e:\sdl\testsdl\game2sdl\threatobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
